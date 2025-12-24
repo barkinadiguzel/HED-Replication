@@ -1,0 +1,5 @@
+NUM_SIDE_OUTPUTS = 5
+
+ALPHA = [1.0, 1.0, 1.0, 1.0, 1.0]
+
+USE_FUSION = True
